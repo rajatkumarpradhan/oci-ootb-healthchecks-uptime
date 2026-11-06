@@ -1,0 +1,2 @@
+compartment_ocid = "ocid1.compartment.oc1..example...replace-me"
+target_url       = "https://api.example.com/health"
