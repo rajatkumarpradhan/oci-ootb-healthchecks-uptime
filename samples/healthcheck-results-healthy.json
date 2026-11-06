@@ -1,0 +1,424 @@
+{
+  "results": [
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "bom-1",
+      "timestamp": "2026-11-06T00:00:00Z",
+      "status": "OK",
+      "latency_ms": 70
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "hyd-1",
+      "timestamp": "2026-11-06T01:00:00Z",
+      "status": "OK",
+      "latency_ms": 73
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "sin-1",
+      "timestamp": "2026-11-06T02:00:00Z",
+      "status": "OK",
+      "latency_ms": 76
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "bom-1",
+      "timestamp": "2026-11-06T03:00:00Z",
+      "status": "OK",
+      "latency_ms": 79
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "hyd-1",
+      "timestamp": "2026-11-06T04:00:00Z",
+      "status": "OK",
+      "latency_ms": 82
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "sin-1",
+      "timestamp": "2026-11-06T05:00:00Z",
+      "status": "OK",
+      "latency_ms": 85
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "bom-1",
+      "timestamp": "2026-11-06T06:00:00Z",
+      "status": "OK",
+      "latency_ms": 88
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "hyd-1",
+      "timestamp": "2026-11-06T07:00:00Z",
+      "status": "OK",
+      "latency_ms": 91
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "sin-1",
+      "timestamp": "2026-11-06T08:00:00Z",
+      "status": "OK",
+      "latency_ms": 94
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "bom-1",
+      "timestamp": "2026-11-06T09:00:00Z",
+      "status": "OK",
+      "latency_ms": 97
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "hyd-1",
+      "timestamp": "2026-11-06T10:00:00Z",
+      "status": "OK",
+      "latency_ms": 100
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "sin-1",
+      "timestamp": "2026-11-06T11:00:00Z",
+      "status": "OK",
+      "latency_ms": 103
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "bom-1",
+      "timestamp": "2026-11-06T12:00:00Z",
+      "status": "OK",
+      "latency_ms": 106
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "hyd-1",
+      "timestamp": "2026-11-06T13:00:00Z",
+      "status": "OK",
+      "latency_ms": 109
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "sin-1",
+      "timestamp": "2026-11-06T14:00:00Z",
+      "status": "OK",
+      "latency_ms": 112
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "bom-1",
+      "timestamp": "2026-11-06T15:00:00Z",
+      "status": "OK",
+      "latency_ms": 115
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "hyd-1",
+      "timestamp": "2026-11-06T16:00:00Z",
+      "status": "OK",
+      "latency_ms": 118
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "sin-1",
+      "timestamp": "2026-11-06T17:00:00Z",
+      "status": "OK",
+      "latency_ms": 121
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "bom-1",
+      "timestamp": "2026-11-06T18:00:00Z",
+      "status": "OK",
+      "latency_ms": 124
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "hyd-1",
+      "timestamp": "2026-11-06T19:00:00Z",
+      "status": "OK",
+      "latency_ms": 127
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "sin-1",
+      "timestamp": "2026-11-06T20:00:00Z",
+      "status": "OK",
+      "latency_ms": 130
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "bom-1",
+      "timestamp": "2026-11-06T21:00:00Z",
+      "status": "OK",
+      "latency_ms": 133
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "hyd-1",
+      "timestamp": "2026-11-06T22:00:00Z",
+      "status": "OK",
+      "latency_ms": 136
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "sin-1",
+      "timestamp": "2026-11-06T23:00:00Z",
+      "status": "OK",
+      "latency_ms": 139
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "bom-1",
+      "timestamp": "2026-11-06T24:00:00Z",
+      "status": "OK",
+      "latency_ms": 142
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "hyd-1",
+      "timestamp": "2026-11-06T25:00:00Z",
+      "status": "OK",
+      "latency_ms": 145
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "sin-1",
+      "timestamp": "2026-11-06T26:00:00Z",
+      "status": "OK",
+      "latency_ms": 148
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "bom-1",
+      "timestamp": "2026-11-06T27:00:00Z",
+      "status": "OK",
+      "latency_ms": 151
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "hyd-1",
+      "timestamp": "2026-11-06T28:00:00Z",
+      "status": "OK",
+      "latency_ms": 154
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "sin-1",
+      "timestamp": "2026-11-06T29:00:00Z",
+      "status": "OK",
+      "latency_ms": 157
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "bom-1",
+      "timestamp": "2026-11-06T30:00:00Z",
+      "status": "OK",
+      "latency_ms": 70
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "hyd-1",
+      "timestamp": "2026-11-06T31:00:00Z",
+      "status": "OK",
+      "latency_ms": 73
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "sin-1",
+      "timestamp": "2026-11-06T32:00:00Z",
+      "status": "OK",
+      "latency_ms": 76
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "bom-1",
+      "timestamp": "2026-11-06T33:00:00Z",
+      "status": "OK",
+      "latency_ms": 79
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "hyd-1",
+      "timestamp": "2026-11-06T34:00:00Z",
+      "status": "OK",
+      "latency_ms": 82
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "sin-1",
+      "timestamp": "2026-11-06T35:00:00Z",
+      "status": "OK",
+      "latency_ms": 85
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "bom-1",
+      "timestamp": "2026-11-06T36:00:00Z",
+      "status": "OK",
+      "latency_ms": 88
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "hyd-1",
+      "timestamp": "2026-11-06T37:00:00Z",
+      "status": "OK",
+      "latency_ms": 91
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "sin-1",
+      "timestamp": "2026-11-06T38:00:00Z",
+      "status": "OK",
+      "latency_ms": 94
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "bom-1",
+      "timestamp": "2026-11-06T39:00:00Z",
+      "status": "OK",
+      "latency_ms": 97
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "hyd-1",
+      "timestamp": "2026-11-06T40:00:00Z",
+      "status": "OK",
+      "latency_ms": 100
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "sin-1",
+      "timestamp": "2026-11-06T41:00:00Z",
+      "status": "OK",
+      "latency_ms": 103
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "bom-1",
+      "timestamp": "2026-11-06T42:00:00Z",
+      "status": "OK",
+      "latency_ms": 106
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "hyd-1",
+      "timestamp": "2026-11-06T43:00:00Z",
+      "status": "OK",
+      "latency_ms": 109
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "sin-1",
+      "timestamp": "2026-11-06T44:00:00Z",
+      "status": "OK",
+      "latency_ms": 112
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "bom-1",
+      "timestamp": "2026-11-06T45:00:00Z",
+      "status": "OK",
+      "latency_ms": 115
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "hyd-1",
+      "timestamp": "2026-11-06T46:00:00Z",
+      "status": "OK",
+      "latency_ms": 118
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "sin-1",
+      "timestamp": "2026-11-06T47:00:00Z",
+      "status": "OK",
+      "latency_ms": 121
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "bom-1",
+      "timestamp": "2026-11-06T48:00:00Z",
+      "status": "OK",
+      "latency_ms": 124
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "hyd-1",
+      "timestamp": "2026-11-06T49:00:00Z",
+      "status": "OK",
+      "latency_ms": 127
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "sin-1",
+      "timestamp": "2026-11-06T50:00:00Z",
+      "status": "OK",
+      "latency_ms": 130
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "bom-1",
+      "timestamp": "2026-11-06T51:00:00Z",
+      "status": "OK",
+      "latency_ms": 133
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "hyd-1",
+      "timestamp": "2026-11-06T52:00:00Z",
+      "status": "OK",
+      "latency_ms": 136
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "sin-1",
+      "timestamp": "2026-11-06T53:00:00Z",
+      "status": "OK",
+      "latency_ms": 139
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "bom-1",
+      "timestamp": "2026-11-06T54:00:00Z",
+      "status": "OK",
+      "latency_ms": 142
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "hyd-1",
+      "timestamp": "2026-11-06T55:00:00Z",
+      "status": "OK",
+      "latency_ms": 145
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "sin-1",
+      "timestamp": "2026-11-06T56:00:00Z",
+      "status": "OK",
+      "latency_ms": 148
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "bom-1",
+      "timestamp": "2026-11-06T57:00:00Z",
+      "status": "OK",
+      "latency_ms": 151
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "hyd-1",
+      "timestamp": "2026-11-06T58:00:00Z",
+      "status": "OK",
+      "latency_ms": 154
+    },
+    {
+      "target": "https://api.example.com/health",
+      "vantage_point": "sin-1",
+      "timestamp": "2026-11-06T59:00:00Z",
+      "status": "OK",
+      "latency_ms": 157
+    }
+  ]
+}
